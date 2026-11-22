@@ -13,12 +13,17 @@
 1. Open a new design in Autodesk Fusion 360 and create a new sketch on the XY plane.
  
 2. Select the circle tool and draw the inner concentric circles. The diameters are as follows: Ø80 mm, Ø64 mm, Ø42 mm and 32mm.
+   
 <img width="558" height="727" alt="Screenshot 2026-11-19 185718" src="https://github.com/user-attachments/assets/1b40a961-f05c-431d-a2f2-5470aca4a3a0" />
+
 3. Draw the top, middle and bottom concentric circles on one half of the design. The outer circles will have a diameter of 40mm and inner ones will have a diameter of 30mm.
+
 <img width="558" height="727" alt="Screenshot 2026-11-19 185718" src="https://github.com/user-attachments/assets/beda86d0-dfa7-4572-9ef4-245fe5979cf9" />
+
 4.Ensure the centre points are at the correct distance apart. Use the sketch dimension tool (D
 
 <img width="491" height="632" alt="Screenshot 2026-11-20 101451" src="https://github.com/user-attachments/assets/0baee8c4-90c1-4dd1-9c03-caba9e22eb60" />
+
 5. Use line tool to connect the circles. Create the outer profile of the shape. Create the required inner radii and lines.
 
 6. Select your complete half of the sketch. Use the mirror tool and select the vertical centre line to create the mirrored half.
@@ -37,7 +42,9 @@
 
 <img width="505" height="605" alt="Screenshot 2026-11-20 101616" src="https://github.com/user-attachments/assets/90c5a808-7f0d-4bbb-ad44-01922bb6f5e7" />
 
-10. Navigate to design > drawing > from design. Select the required size and standard.. <img width="726" height="458" alt="Screenshot 2026-11-20 101626" src="https://github.com/user-attachments/assets/89e39a80-9ac0-4bc2-afcf-0129cf5782cc" />
+10. Navigate to design > drawing > from design. Select the required size and standard.
+
+  <img width="726" height="458" alt="Screenshot 2026-11-20 101626" src="https://github.com/user-attachments/assets/89e39a80-9ac0-4bc2-afcf-0129cf5782cc" />
 
 11.Insert the front, top and isometric views of your 3D model onto the drawing. Add the required dimensions using the dimension tool.
 
